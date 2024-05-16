@@ -9,7 +9,7 @@ The following is the LSTM network structure based on the evolution of RNN networ
 The SelfAttention structure is as follows:
 ![SelfAttention](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%B3%A8%E6%84%8F%E5%8A%9B.png)
 Based on LSTM and EMD, combined with self-attention mechanism, the EALSTM network structure proposed in this project is as follows:
-![EALSTM](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E8%AE%BA%E6%96%87%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84.png)
+![EALSTM](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png)
 # Expermenting
 EMD decomposes the final effect
 ![EMD1-4](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E5%8E%9F%E7%A5%9EEMD2.png)
