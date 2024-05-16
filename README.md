@@ -7,7 +7,7 @@ My article by RNN neutrul network, the model's construcrtion as follows:
 The following is the LSTM network structure based on the evolution of RNN networks:
 ![LSTM][(https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png))  
 The SelfAttention structure is as follows:  
-![SelfAttention](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%B3%A8%E6%84%8F%E5%8A%9B.png)
+![SelfAttention](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%B3%A8%E6%84%8F%E5%8A%9B.png)  
 Based on LSTM and EMD, combined with self-attention mechanism, the EALSTM network structure proposed in this project is as follows:  
 ![EALSTM](https://github.com/triste-creator/EALSTM-pytorch/blob/triste-creator-patch-1/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png)  
 # Expermenting
